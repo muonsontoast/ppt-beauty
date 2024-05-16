@@ -1,4 +1,4 @@
-This script generates a slideshow template in MS Powerpoint for Mac with a dynamic slide indicator, slide counter, title slide including abstract, content slides and qr code. A set of nice colour schemes is defined and can be referenced from within the script to change the colour scheme of the whole template.
+This script generates a slideshow template in MS Powerpoint for Mac with a dynamic slide indicator, slide counter, title slide including abstract and qr, and content slides. A set of nice colour schemes is defined and can be referenced from within the script to change the colour scheme of the whole template.
 
 To run the script and generate a template: 
   1. Open Powerpoint
