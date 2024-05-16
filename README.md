@@ -4,7 +4,7 @@ To run the script and generate a template:
   1. Open Powerpoint
   2. Create as many blank slides as you'll need (including one for the title slide)
   3. Open the Apple Script file.
-  4. Define each section and section length inside the two pre-existing variables contained in the script.
+  4. Define the section names and slide lengths inside the two pre-existing variables contained in the script.
   5. Run the script.
 
 Additionally, specify a file path to a qr code, which will be populated on the title slide.
