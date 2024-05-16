@@ -9,8 +9,7 @@ To run the script and generate a template:
 
 Additionally, specify a file path to a qr code, which will be populated on the title slide.
 
-To rerun the script and generate a new template:
-  Delete every slide and recreate the blank slides, which can be done quickly by copying all the blank slides the first time you make them and copy-pasting     OR     Ctrl+Z to undo changes
+To rerun the script and generate a new template: delete every slide and recreate the blank slides, which can be done quickly by copying all the blank slides the first time you make them and copy-pasting     OR     Ctrl+Z to undo changes
 
 Rerunning the script will populate the new elements over the old ones if they exist. This is fine if you are only adjusting the colour, otherwise there will be text overlay issues. I recommend clearing all slides if doing anything other than changing colour, as above.
   
